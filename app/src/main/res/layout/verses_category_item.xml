@@ -1,0 +1,11 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/verseItem"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/listItemPadding"
+    android:paddingTop="@dimen/listItemPadding"
+    android:textAlignment="center"
+    android:textColor="@color/colorItem"
+    android:textSize="@dimen/listItemSize"
+    android:textStyle="bold" />
+

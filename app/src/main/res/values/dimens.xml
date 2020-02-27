@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dividerHeight">0.5dp</dimen>
+    <dimen name="listItemSize">22sp</dimen>
+    <dimen name="randomVerseSize">22sp</dimen>
+    <dimen name="listItemPadding">10dp</dimen>
+    <dimen name="listVerseMargin">80dp</dimen>
+</resources>

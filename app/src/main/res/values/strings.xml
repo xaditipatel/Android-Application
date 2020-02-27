@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daily Inspirational Bible Verses</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1975722893560806/5719245098</string>
+    <string name="title_home">Home</string>
+    <string name="title_next">Next</string>
+    <string name="title_previous">Previous</string>
+    <string name="title_copy">Copy</string>
+    <string name="title_share">Share</string>
+</resources>
